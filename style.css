@@ -1,0 +1,16 @@
+body{
+text-align: center;
+
+}
+
+img{
+    width:600px;
+}
+
+.items{
+    border:5px ridge black;
+    padding: 10px;
+    background: darkslateblue;
+    color: white;
+    margin-bottom: 20px;
+}
